@@ -129,7 +129,7 @@ body:after {
 }
 
 .has-dark #bar {
-  background: rgba(10, 14, 20, 0.95);
+  background: rgba(46, 52, 64, 0.95);
 }
 
 #bar::before {
@@ -230,7 +230,7 @@ body:after {
 }
 
 .has-dark #list {
-  background: rgba(10, 14, 20, 0.95);
+  background: rgba(46, 52, 64, 0.95);
 }
 
 .item {
