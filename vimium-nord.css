@@ -45,10 +45,12 @@ https://github.com/fcancelinha/vimium-nord
 /* hints matching chars */
 .MC {
   color: #88C0CF;
+  border-color: rgba(0, 0, 0, 0.3);
 }
 
 .D .MC {
   color: #88C0CF;
+  border-color: rgba(0, 0, 0, 0.3);
 }
 
 /* bottom hud */
@@ -267,19 +269,19 @@ body:after {
 }
 
 .item.s::before {
-  background-color: rgba(136, 192, 208, 0.836);
+  background-color: #88C0CF;
 }
 
 .item:hover::before {
-  background-color: #fff;
+  background-color: #88C0CF;
 }
 
 .has-dark .item.s::before {
-  background-color: rgba(136, 162, 208, 0.836);
+  background-color: #88C0CF;
 }
 
 .has-dark .item:hover::before {
-  background-color: rgba(136, 162, 208, 0.836);
+  background-color: #88C0CF;
 }
 
 .item .icon {
@@ -321,11 +323,11 @@ body:after {
 }
 
 .item .top .title match {
-  color: #88C0CF;
+  color: rgba(136, 192, 208, 1);
 }
 
 .has-dark .item .top .title match {
-  color: #88C0CF;
+  color: rgba(136, 192, 208, 1);
 }
 
 .item .top .title:empty::after {
