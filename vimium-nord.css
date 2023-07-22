@@ -39,17 +39,17 @@ https://github.com/fcancelinha/vimium-nord
 
 .D .LH {
   border-color: rgba(0, 0, 0, 0.3);
-  color: #88C0CF;
+  color: #88C0C0;
 }
 
 /* hints matching chars */
 .MC {
-  color: #88C0CF;
+  color: #88C0C0;
   border-color: rgba(0, 0, 0, 0.3);
 }
 
 .D .MC {
-  color: #88C0CF;
+  color: #88C0C0;
   border-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -64,7 +64,7 @@ https://github.com/fcancelinha/vimium-nord
   height: 1.5rem !important;
   line-height: unset;
   text-transform: lowercase;
-  color: #E5E9F0;
+  color: #ECEFF4;
   max-width: 420px;
   min-width: unset;
   line-height: 21px;
@@ -151,7 +151,7 @@ body:after {
 }
 
 .has-dark #bar::before {
-  color: #d4d4d4;
+  color: #ECEFF4;
 }
 
 #input {
@@ -210,18 +210,18 @@ body:after {
 }
 
 .has-dark #toolbar .button#toggle-dark .i-moon {
-  fill: #ddd8cd;
-  stroke: #ddd8cd;
+  fill: #D8DEE9;
+  stroke: #D8DEE9;
 }
 
 .has-dark #toolbar .button#toggle-dark .i-sun {
-  fill: #ddd8cd;
-  stroke: #ddd8cd;
+  fill: #D8DEE9;
+  stroke: #D8DEE9;
 }
 
 .has-dark #toolbar .button#close > svg {
-  fill: #ddd8cd;
-  stroke: #ddd8cd;
+  fill: #D8DEE9;
+  stroke: #D8DEE9;
 }
 
 #list {
@@ -269,19 +269,19 @@ body:after {
 }
 
 .item.s::before {
-  background-color: #88C0CF;
+  background-color: #EBCB8B;
 }
 
 .item:hover::before {
-  background-color: #88C0CF;
+  background-color: #EBCB8B;
 }
 
 .has-dark .item.s::before {
-  background-color: #88C0CF;
+  background-color: #88C0C0;
 }
 
 .has-dark .item:hover::before {
-  background-color: #88C0CF;
+  background-color: #88C0C0;
 }
 
 .item .icon {
@@ -294,8 +294,8 @@ body:after {
 }
 
 .has-dark .item .icon {
-  fill: #ddd8cd;
-  stroke: #ddd8cd;
+  fill: #ECEFF4;
+  stroke: #ECEFF4;
 }
 
 .item .icon path {
@@ -307,13 +307,13 @@ body:after {
 }
 
 .item .top {
-  color: #838686;
+  color: #4C566A;
   position: relative;
   height: 30px;
 }
 
 .has-dark .item .top {
-  color: #ddd8cd;
+  color: #ECEFF4;
 }
 
 .item .top .title {
@@ -340,20 +340,20 @@ body:after {
 }
 
 .item .bottom a {
-  color: #b6b8b8;
+  color: #4C566A;
   font-size: 0.6rem;
 }
 
 .has-dark .item .bottom a {
-  color: #4a545e;
+  color: #ECEFF4;
 }
 
 .item .bottom a match {
-  color: #686c6d;
+  color: #4C566A;
 }
 
 .has-dark .item .bottom a match {
-  color: #76808a;
+  color: #ECEFF4;
 }
 
 /* #find */
@@ -387,13 +387,13 @@ body.D {
 
 .r.D {
   background: unset;
-  color: #d4d4d4;
+  color: #88C0C0;
 }
 
 #i {
-  color: #2E3440;
+  color: #88c0d0;
 }
 
 .D #i {
-  color: #D8DEE9;
+  color: #ECEFF4;
 }
