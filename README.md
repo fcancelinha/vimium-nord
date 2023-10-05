@@ -1,5 +1,5 @@
 # Vimium-nord
-A nord colorscheme for Vimium-C | Vimium using the original nord palette ( https://www.nordtheme.com/docs/colors-and-palettes )
+A nord colorscheme for Vimium-C | Vimium using the original [nord palette](https://www.nordtheme.com/docs/colors-and-palettes)
 
 ## Features
 - Nord Palette
